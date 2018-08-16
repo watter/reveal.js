@@ -195,7 +195,9 @@
 			display: 'block',
 
 			// Script dependencies to load
-			dependencies: []
+			dependencies: [ 
+				{ src: 'plugin/menu/menu.js' } 
+			]
 
 		},
 
